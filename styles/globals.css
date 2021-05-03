@@ -1,16 +1,14 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
-}
+:root {
+    --ion-color-primary: #2DB696;
+    --ion-color-secondary: #1E334F;  
+    --ion-color-tertiary: #6D6E71;
+    --ion-color-success: #00ac14;
+    --ion-color-warning: #ff8c00;
+    --ion-color-danger: #eb445a;
+    --ion-color-dark: #222428;  
+    --ion-color-medium: #e4e6ec;
+    --ion-color-light: #F0F2F5;
+    --ion-background-color: #ffffff;  
+    --ion-background-active: #E6F9F4;
+    --ion-color-text: #333333;
+  }
